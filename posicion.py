@@ -1,4 +1,3 @@
-from turtle import position
 from urllib.request import urlopen
 import json
 import time
