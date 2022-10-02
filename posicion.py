@@ -1,3 +1,4 @@
+from configparser import MAX_INTERPOLATION_DEPTH
 from urllib.request import urlopen
 import json
 import time
